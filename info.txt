@@ -1,1 +1,1 @@
-test resolve when merging from branch
+test resolve when merging from branch new file from branch
